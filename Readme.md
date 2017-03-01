@@ -1,3 +1,3 @@
 #Git Course
-Arquivo para teste."
-Nova linha
+Arquivo para teste 
+Teste para DIFF
